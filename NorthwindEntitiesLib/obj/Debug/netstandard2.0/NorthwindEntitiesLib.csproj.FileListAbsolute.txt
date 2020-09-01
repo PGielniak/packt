@@ -1,0 +1,9 @@
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.deps.json
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\bin\Debug\netstandard2.0\NorthwindEntitiesLib.pdb
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csprojAssemblyReference.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfoInputs.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.AssemblyInfo.cs
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.csproj.CoreCompileInputs.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindEntitiesLib\obj\Debug\netstandard2.0\NorthwindEntitiesLib.pdb

@@ -1,0 +1,12 @@
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.deps.json
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindContextLib.pdb
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\bin\Debug\netstandard2.1\NorthwindEntitiesLib.pdb
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csprojAssemblyReference.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfoInputs.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.AssemblyInfo.cs
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CoreCompileInputs.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.csproj.CopyComplete
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindContextLib\obj\Debug\netstandard2.1\NorthwindContextLib.pdb

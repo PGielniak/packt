@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gNKtQHXX0ga2kkrZVv9tN33GF+aUyMMoC47ZbZK2q8H+No/PA66udvsed27ETGS7JjN5cyysuvdItwwfjT489Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PGielnia\\.nuget\\packages\\microsoft.aspnetcore.mvc.api.analyzers\\2.2.6\\microsoft.aspnetcore.mvc.api.analyzers.2.2.6.nupkg.sha512",
+    "C:\\Users\\PGielnia\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\PGielnia\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

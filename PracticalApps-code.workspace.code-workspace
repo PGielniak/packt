@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "NorthwindEntitiesLib"
+		},
+		{
+			"path": "NorthwindContextLib"
+		},
+		{
+			"path": "NorthwindWeb"
+		},
+		{
+			"path": "NorthwindEmployees"
+		},
+		{
+			"path": "NorthwindMvc"
+		},
+		{
+			"path": "NorthwindCms"
+		},
+		{
+			"path": "NorthwindService"
+		},
+		{
+			"name": "PracticalApps",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

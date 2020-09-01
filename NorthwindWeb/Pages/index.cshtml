@@ -1,0 +1,35 @@
+@page
+@functions
+{
+    public string DayName{get; set;}
+
+    public void OnGet()
+    {
+        Model.DayName=DateTime.Now.ToString("dddd");
+    }
+}
+
+
+
+            <div class="jumbotron">
+                <h1 class="display-3">Welcome to Northwind</h1>
+                <p class="lead">We supply products to our customers</p>
+                <hr/>
+                <p> It's @Model.DayName ! Our customers include restaurants, hotels and cruise lines</p>
+                <p>
+                    <a class="btn btn-primary" href="suppliers">
+                        Learn More about our suppliers
+                    </a>
+                </p>
+                <p>
+                    <a class="btn btn-primary" href="employees">
+                    Contact our employees
+                    </a>
+                </p>
+                 <p>
+                    <a class="btn btn-primary" href="customers_by_country">
+                    See customers per country!
+                    </a>
+                </p>
+            </div>
+     
