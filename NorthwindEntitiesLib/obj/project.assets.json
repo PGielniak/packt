@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+      "projectUniqueName": "c:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
       "projectName": "NorthwindEntitiesLib",
-      "projectPath": "C:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
+      "projectPath": "c:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindEntitiesLib\\NorthwindEntitiesLib.csproj",
       "packagesPath": "C:\\Users\\PGielnia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindEntitiesLib\\obj\\",
+      "outputPath": "c:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindEntitiesLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\PGielnia\\AppData\\Roaming\\NuGet\\NuGet.Config",
