@@ -1,0 +1,15 @@
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.exe
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.deps.json
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.runtimeconfig.json
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.runtimeconfig.dev.json
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.pdb
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.csprojAssemblyReference.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.Form1.resources
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.csproj.GenerateResource.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.AssemblyInfoInputs.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.AssemblyInfo.cs
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.csproj.CoreCompileInputs.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.pdb
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.genruntimeconfig.cache

@@ -101,3 +101,4 @@ C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindML\bin\Debug\netcorea
 C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindML\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
 C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindML\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MatrixFactorizationNative.dll
 C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindML\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\PGielnia\source\repos\Code\PracticalApps\NorthwindML\obj\Debug\netcoreapp3.1\Razor\Views\Home\Cart.cshtml.g.cs

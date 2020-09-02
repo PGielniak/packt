@@ -14402,6 +14402,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindML\\Views\\Home\\Cart.cshtml",
+      "TargetPath": "Views\\Home\\Cart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\PGielnia\\source\\repos\\Code\\PracticalApps\\NorthwindML\\Views\\Shared\\_Layout.cshtml",
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
