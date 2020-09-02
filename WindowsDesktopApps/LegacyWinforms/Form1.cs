@@ -16,5 +16,12 @@ namespace LegacyWinforms
         {
             InitializeComponent();
         }
+
+        private void btnGoToChristmas_Click(object sender, EventArgs e)
+        {
+            DateTime christmas = new DateTime(2020, 12, 25);
+            monthCalendar1.SelectionStart = christmas;
+            monthCalendar1.SelectionEnd = christmas;
+        }
     }
 }

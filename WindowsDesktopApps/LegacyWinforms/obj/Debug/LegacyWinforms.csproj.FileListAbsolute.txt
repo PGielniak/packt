@@ -1,0 +1,10 @@
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\bin\Debug\LegacyWinforms.exe.config
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\bin\Debug\LegacyWinforms.exe
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\bin\Debug\LegacyWinforms.pdb
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\obj\Debug\LegacyWinforms.csprojAssemblyReference.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\obj\Debug\LegacyWinforms.Form1.resources
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\obj\Debug\LegacyWinforms.Properties.Resources.resources
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\obj\Debug\LegacyWinforms.csproj.GenerateResource.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\obj\Debug\LegacyWinforms.csproj.CoreCompileInputs.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\obj\Debug\LegacyWinforms.exe
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\LegacyWinforms\obj\Debug\LegacyWinforms.pdb

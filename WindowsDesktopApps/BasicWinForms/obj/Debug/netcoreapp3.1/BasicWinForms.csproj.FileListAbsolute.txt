@@ -5,7 +5,6 @@ C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinFor
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.dll
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\bin\Debug\netcoreapp3.1\BasicWinForms.pdb
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.csprojAssemblyReference.cache
-C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.Form1.resources
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.csproj.GenerateResource.cache
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.AssemblyInfoInputs.cache
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinFor
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.dll
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.pdb
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\BasicWinForms.genruntimeconfig.cache
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\BasicWinForms\obj\Debug\netcoreapp3.1\LegacyWinforms.Form1.resources
