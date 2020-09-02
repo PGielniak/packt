@@ -75,3 +75,4 @@ C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\FluentUwpAp
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\FluentUwpApp\obj\x64\Debug\Microsoft.Xaml.Interactions.pri.xml
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\FluentUwpApp\obj\x64\Debug\Microsoft.Xaml.Interactivity.pri.xml
 C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\FluentUwpApp\obj\x64\Debug\.winmd_cache\$Microsoft.Graphics.Canvas.winmd_637214462760000000.json
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\FluentUwpApp\obj\x64\Debug\FluentUwpApp.csprojAssemblyReference.cache

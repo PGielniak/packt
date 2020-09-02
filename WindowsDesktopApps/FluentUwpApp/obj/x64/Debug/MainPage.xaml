@@ -11,8 +11,8 @@
                         >
 
     <StackPanel Background="{ThemeResource SystemControlAcrylicWindowBrush}">
-        <StackPanel x:ConnectionId='2' Orientation="Horizontal" Padding="4" Background="LightGray" x:Name="toolbar">
-            <Button x:ConnectionId='5' Margin="6" Padding="6" Name="ClickMeButton"                            >
+        <StackPanel x:ConnectionId='2' Orientation="Horizontal" Padding="4" Background="{StaticResource rainbow}" x:Name="toolbar">
+            <Button x:ConnectionId='6' Margin="6" Padding="6" Name="ClickMeButton"                            >
                 Click Me
             </Button>
             <TextBlock Text="First name: " VerticalAlignment="Center" Margin="4">
@@ -21,7 +21,7 @@
             <TextBox PlaceholderText="Enter your name" VerticalAlignment="Center" Width="200"></TextBox>
         </StackPanel>
         <StackPanel Orientation="Horizontal">
-            <Grid x:ConnectionId='3' Background="DarkGray" Margin="10" Padding="5" Name="gridCalculator">
+            <Grid x:ConnectionId='4' Background="DarkGray" Margin="10" Padding="5" Name="gridCalculator">
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition/> 
                     <ColumnDefinition/>
@@ -51,7 +51,7 @@
                 <Button Grid.Row="3" Grid.Column="2" Content="3" FontSize="24" Width="54" Height="54"/>
                 <Button Grid.Row="3" Grid.Column="3" Content="=" FontSize="24" Width="54" Height="54"/>
             </Grid>
-            <TextBox x:ConnectionId='4' Name="markdownSource" Text="# Welcome"
+            <TextBox x:ConnectionId='5' Name="markdownSource" Text="# Welcome"
                      Header="Enter some markdown text: "
                      VerticalAlignment="Stretch"
                      Margin="5"
@@ -63,6 +63,34 @@
 
 
         </StackPanel>
+        <TextBlock Grid.ColumnSpan="2" Margin="10">
+            Use the slider to rotate the square
+        </TextBlock>
+        <Slider x:ConnectionId='3' Value="180" Minimum="0" Maximum="360"
+                Name="sliderRotation" Margin="10,0"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Horizontal"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+
+                <TextBlock FontSize="30" Text="{Binding ElementName=sliderRotation, Path=Value}"/>
+                <TextBlock Text="degrees" FontSize="30" Margin="10,0"/>
+            </StackPanel>
+            <kit:RadialGauge Grid.Column="1" Minimum="0" Maximum="360"
+                             Value="{Binding ElementName=sliderRotation, Path=Value}"
+                             Height="200" Width="200"/>
+            <Rectangle Grid.Column="2" Height="100" Width="100" Fill="Red">
+                <Rectangle.RenderTransform>
+                    <RotateTransform
+                        Angle="{Binding ElementName=sliderRotation, Path=Value}"/>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+        </Grid>
     </StackPanel>
 </Page>
 

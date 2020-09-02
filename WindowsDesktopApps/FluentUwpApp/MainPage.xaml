@@ -11,7 +11,7 @@
     Loaded="Page_Loaded">
 
     <StackPanel Background="{ThemeResource SystemControlAcrylicWindowBrush}">
-        <StackPanel Orientation="Horizontal" Padding="4" Background="LightGray" x:Name="toolbar">
+        <StackPanel Orientation="Horizontal" Padding="4" Background="{StaticResource rainbow}" x:Name="toolbar">
             <Button Margin="6" Padding="6" Name="ClickMeButton" Click="ClickMeButton_Click">
                 Click Me
             </Button>
@@ -63,5 +63,33 @@
 
 
         </StackPanel>
+        <TextBlock Grid.ColumnSpan="2" Margin="10">
+            Use the slider to rotate the square
+        </TextBlock>
+        <Slider Value="180" Minimum="0" Maximum="360"
+                Name="sliderRotation" Margin="10,0"/>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <StackPanel Orientation="Horizontal"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+
+                <TextBlock FontSize="30" Text="{Binding ElementName=sliderRotation, Path=Value}"/>
+                <TextBlock Text="degrees" FontSize="30" Margin="10,0"/>
+            </StackPanel>
+            <kit:RadialGauge Grid.Column="1" Minimum="0" Maximum="360"
+                             Value="{Binding ElementName=sliderRotation, Path=Value}"
+                             Height="200" Width="200"/>
+            <Rectangle Grid.Column="2" Height="100" Width="100" Fill="Red">
+                <Rectangle.RenderTransform>
+                    <RotateTransform
+                        Angle="{Binding ElementName=sliderRotation, Path=Value}"/>
+                </Rectangle.RenderTransform>
+            </Rectangle>
+        </Grid>
     </StackPanel>
 </Page>
