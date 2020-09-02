@@ -1,5 +1,6 @@
 ﻿<Page
     x:Class="FluentUwpApp.MainPage"
+    xmlns:kit="using:Microsoft.Toolkit.Uwp.UI.Controls"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:FluentUwpApp"
@@ -50,7 +51,17 @@
                 <Button Grid.Row="3" Grid.Column="2" Content="3" FontSize="24" Width="54" Height="54"/>
                 <Button Grid.Row="3" Grid.Column="3" Content="=" FontSize="24" Width="54" Height="54"/>
             </Grid>
-            
+            <TextBox Name="markdownSource" Text="# Welcome"
+                     Header="Enter some markdown text: "
+                     VerticalAlignment="Stretch"
+                     Margin="5"
+                     AcceptsReturn="True"/>
+            <kit:MarkdownTextBlock Margin="5"
+                                   Text="{Binding ElementName=markdownSource, Path=Text}"
+                                   VerticalAlignment="Stretch"
+                                   HorizontalAlignment="Stretch"/>
+
+
         </StackPanel>
     </StackPanel>
 </Page>

@@ -2,7 +2,8 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\PGielnia\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\PGielnia\\.nuget\\packages"
+      "C:\\Users\\PGielnia\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }
