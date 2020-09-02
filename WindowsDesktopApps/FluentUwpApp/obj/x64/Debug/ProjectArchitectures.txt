@@ -1,0 +1,1 @@
+C:\Users\PGielnia\source\repos\Code\PracticalApps\WindowsDesktopApps\FluentUwpApp\FluentUwpApp.csproj;x64
